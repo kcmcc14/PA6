@@ -1,0 +1,14 @@
+C:\Users\KC\source\repos\LAST PA\LAST PA\bin\Debug\LAST PA.exe.config
+C:\Users\KC\source\repos\LAST PA\LAST PA\bin\Debug\LAST PA.exe
+C:\Users\KC\source\repos\LAST PA\LAST PA\bin\Debug\LAST PA.pdb
+C:\Users\KC\source\repos\LAST PA\LAST PA\obj\Debug\LAST PA.csprojAssemblyReference.cache
+C:\Users\KC\source\repos\LAST PA\LAST PA\obj\Debug\LAST_PA.frmCWID.resources
+C:\Users\KC\source\repos\LAST PA\LAST PA\obj\Debug\LAST_PA.Properties.Resources.resources
+C:\Users\KC\source\repos\LAST PA\LAST PA\obj\Debug\LAST PA.csproj.GenerateResource.cache
+C:\Users\KC\source\repos\LAST PA\LAST PA\obj\Debug\LAST PA.exe
+C:\Users\KC\source\repos\LAST PA\LAST PA\obj\Debug\LAST PA.pdb
+C:\Users\KC\source\repos\LAST PA\LAST PA\bin\Debug\Newtonsoft.Json.dll
+C:\Users\KC\source\repos\LAST PA\LAST PA\bin\Debug\Newtonsoft.Json.xml
+C:\Users\KC\source\repos\LAST PA\LAST PA\obj\Debug\LAST_PA.frmMain.resources
+C:\Users\KC\source\repos\LAST PA\LAST PA\obj\Debug\LAST PA.csproj.CopyComplete
+C:\Users\KC\source\repos\LAST PA\LAST PA\obj\Debug\LAST_PA.frmEdit.resources
